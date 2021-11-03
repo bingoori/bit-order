@@ -28,16 +28,13 @@ ISSUE
 - End of Line Sequence (CRLF, LF) 운영체제 따라 달라 js 포멧 작성 불편 (VSCODE 윈도우만 LF로 셋팅할 것)
 
 추가 개발 시
-공통 error code 정의
-firebase error code 정의
-mysql error code 정의
 
-개발모드, 운영모드 env 셋팅
-firebase 정보 env 셋팅
-mysql 정보 env 셋팅
-
-form validation
-
-클라이언트, 서버, API 정보, DB timezone 정의
-
-공통 API 셋팅 함수 정의
+1. 공통 error code 정의
+2. firebase error code 정의
+3. mysql error code 정의
+4. 개발모드, 운영모드 env 셋팅
+5. firebase 정보 env 셋팅
+6. mysql 정보 env 셋팅
+7. form validation
+8. 클라이언트, 서버, API 정보, DB timezone 정의
+9. 공통 API 셋팅 함수 정의
